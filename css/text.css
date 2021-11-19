@@ -1,10 +1,7 @@
 .text {
-    position: absolute;
-    top: 10rem;
-    right: 10rem;
     text-align: center;
     font-family: 'Brush Script MT', cursive;
-    font-size: 5em;
+    font-size: 5vw;
     font-weight: 700;
-    color: #ec9c9c;
+    color: #dd5d22d5;
 }
